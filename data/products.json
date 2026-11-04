@@ -1,5 +1,27 @@
 [
   {
+    "name": "Yashica Digimate Digital Compact Camera (Off-white)",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/yashica-digimate-digital-compact-camera--mw23h3xb.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Kodak Pixpro C1 Compact Camera",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/product-mw23d8rf.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
     "name": "Canon 2000D kit",
     "category": "Cameras",
     "desc": "Entry level DSLR",
