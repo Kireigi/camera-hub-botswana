@@ -1,5 +1,27 @@
 [
   {
+    "name": "New product",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "New product",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "",
+    "stock": "in",
+    "visible": true
+  },
+  {
     "name": "Kodak PIXPRO FZ55 Digital Camera (Black) ",
     "category": "Cameras",
     "desc": "",
