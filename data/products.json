@@ -1,5 +1,16 @@
 [
   {
+    "name": "Canon 2000D kit",
+    "category": "Cameras",
+    "desc": "",
+    "price": 10700,
+    "oldPrice": 12500,
+    "tag": "New",
+    "image": "images/new-product-mw22knoz.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
     "name": "Canon EOS R100 Travel Kit (18-45mm, bag, SD)",
     "category": "Cameras",
     "desc": "Entry-level mirrorless kit with 18-45mm lens, bag and SD card",
