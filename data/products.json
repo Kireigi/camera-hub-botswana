@@ -1,5 +1,27 @@
 [
   {
+    "name": "New product",
+    "category": "Lenses",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Canon RF 600mm f/11 IS STM",
+    "category": "Lenses",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "",
+    "stock": "in",
+    "visible": true
+  },
+  {
     "name": "Sony FX2 Digital Cinema Camera with Sony XLR-H1 XLR Handle Unit",
     "category": "Cameras",
     "desc": "33MP Full-Frame CMOS Exmor R Sensor",
