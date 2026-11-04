@@ -211,7 +211,7 @@
   {
     "name": "Sony FX30 Digital Cinema Camera",
     "category": "Cameras",
-    "desc": "",
+    "desc": "26MP APS-C / Super 35 Exmor R BSI CMOS sensor (with 6K oversampling)",
     "price": 35000,
     "oldPrice": 39995,
     "tag": "New",
@@ -222,7 +222,7 @@
   {
     "name": "Sony Alpha A7 V Mirrorless Camera Body",
     "category": "Cameras",
-    "desc": "",
+    "desc": "33MP Exmor RS CMOS sensor",
     "price": 59995,
     "oldPrice": "",
     "tag": "New",
@@ -233,7 +233,7 @@
   {
     "name": "Sony Alpha a7C II Mirrorless Digital Camera (Black)",
     "category": "Cameras",
-    "desc": "",
+    "desc": "33.0MP full-frame Exmor R back-illuminated CMOS sensor",
     "price": 45600,
     "oldPrice": 55995,
     "tag": "New",
@@ -255,7 +255,7 @@
   {
     "name": "Fujifilm Instax Mini LiPlay+ Hybrid Instant Camera Combo with 1 Film and Case (Sand Beige)",
     "category": "Cameras",
-    "desc": "",
+    "desc": "Hybrid instant camera and a smartphone printer",
     "price": 4595,
     "oldPrice": "",
     "tag": "New",
@@ -266,7 +266,7 @@
   {
     "name": "Fujifilm Instax Mini LiPlay Hybrid Instant Camera (Stone White)",
     "category": "Cameras",
-    "desc": "",
+    "desc": "Hybrid instant camera and a smartphone printer",
     "price": 4900,
     "oldPrice": "",
     "tag": "New",
@@ -277,7 +277,7 @@
   {
     "name": "Kodak PIXPRO WPZ2 Digital Camera (Red)",
     "category": "Cameras",
-    "desc": "",
+    "desc": "16MP Waterproof Digital Camera",
     "price": 5899,
     "oldPrice": "",
     "tag": "New",
@@ -288,7 +288,7 @@
   {
     "name": "Kodak Snapic A1 35mm Film Camera (Ivory White)",
     "category": "Cameras",
-    "desc": "",
+    "desc": "35mm Film Camera ",
     "price": 3200,
     "oldPrice": "",
     "tag": "New",
