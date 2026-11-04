@@ -1,5 +1,27 @@
 [
   {
+    "name": "Sony Alpha 1 II Mirrorless Digital Camera Body",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/sony-alpha-1-ii-mirrorless-digital-camer-mw25g8n1.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Sony Alpha A7 V Mirrorless Camera with FE 28-70mm f/3.5-5.6 OSS II Lens",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/sony-alpha-a7-v-mirrorless-camera-with-f-mw25f270.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
     "name": "Sony Cyber-shot DSC-RX100 VII Vlogging Camera Kit",
     "category": "Cameras",
     "desc": "",
