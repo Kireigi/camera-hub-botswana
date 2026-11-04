@@ -1,5 +1,49 @@
 [
   {
+    "name": "Sony Cine Line FX6 Full-Frame Cinema Camera (Body Only)",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/sony-cine-line-fx6-full-frame-cinema-cam-mw25mju4.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Sony RX1R III Digital Camera",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/sony-rx1r-iii-digital-camera-mw25ohmd.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Sony HXR-NX800 4K 1\" Sensor NXCAM Camcorder",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/sony-hxr-nx800-4k-1-sensor-nxcam-camcord-mw25jamy.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Sony Alpha a7C II Mirrorless Digital Camera with 28-60mm Lens (Black)",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/sony-alpha-a7c-ii-mirrorless-digital-cam-mw25hw8l.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
     "name": "Sony Alpha 1 II Mirrorless Digital Camera Body",
     "category": "Cameras",
     "desc": "",
