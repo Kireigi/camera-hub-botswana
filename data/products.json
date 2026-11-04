@@ -1,5 +1,60 @@
 [
   {
+    "name": "Sony Cinema Line FX3A Camera",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/sony-cinema-line-fx3a-camera-mw24qt03.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Sony RX10 V Digital Camera",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/sony-rx10-v-digital-camera-mw24pxfb.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Sony FX30 Digital Cinema Camera",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/sony-fx30-digital-cinema-camera-mw24o2na.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Sony Alpha A7 V Mirrorless Camera Body",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/sony-alpha-a7-v-mirrorless-camera-body-mw24n3p4.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Sony Alpha a7C II Mirrorless Digital Camera (Black)",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/sony-alpha-a7c-ii-mirrorless-digital-cam-mw24l2uy.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
     "name": "Sony a6700 Mirrorless Camera with 16-50mm Lens",
     "category": "Cameras",
     "desc": "",
