@@ -70,8 +70,9 @@ section{padding:56px 0}
 .filters button[aria-pressed="true"]{background:var(--btn);color:var(--btn-ink);border-color:var(--btn)}
 .grid{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
 .card{border:1px solid var(--line);border-radius:6px;overflow:hidden;display:flex;flex-direction:column;background:var(--bg)}
-.card .pic{height:150px;background:var(--surface);display:grid;place-items:center;position:relative}
-.card .pic img{width:100%;height:100%;object-fit:cover}
+.card .pic{height:190px;flex:none;overflow:hidden;background:var(--surface);display:grid;place-items:center;position:relative}
+.card .pic.has-img{background:#fff}
+.card .pic img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;padding:8px}
 .stk{font-weight:600;font-size:13px}.s-in{color:#1f8a4c}.s-low{color:#b7791f}.s-order{color:var(--muted)}.s-out{color:#b42318}
 .card .pic svg{width:70px;height:70px;stroke:var(--sky-ink);fill:none;stroke-width:1.4}
 .tag{position:absolute;top:10px;left:10px;background:var(--ink);color:var(--bg);font-size:12px;font-weight:600;padding:2px 8px;border-radius:3px}
@@ -211,7 +212,7 @@ function draw(){var h="",n=0;
     if(cur!=="All"&&p.category!==cur)return;
     if(term&&(p.name+" "+p.desc+" "+p.category).toLowerCase().indexOf(term)<0)return;
     n++;var st=p.stock||"in",out=st==="out";
-    h+='<article class="card"><div class="pic">'+(p.tag?'<span class="tag">'+esc(p.tag)+'</span>':'')+(p.image?'<img src="'+esc(p.image)+'" alt="'+esc(p.name)+'" loading="lazy">':icon)+'</div><div class="info"><small>'+(p.category==="Used"?"Pre-owned":esc(p.category))+'</small><h3>'+esc(p.name)+'</h3><small>'+esc(p.desc)+'</small><span class="stk s-'+st+'">'+SL[st]+'</span><div class="price">'+R(p.price)+(p.oldPrice?'<s>'+R(p.oldPrice)+'</s>':'')+'</div></div>'
+    h+='<article class="card"><div class="pic'+(p.image?' has-img':'')+'">'+(p.tag?'<span class="tag">'+esc(p.tag)+'</span>':'')+(p.image?'<img src="'+esc(p.image)+'" alt="'+esc(p.name)+'" loading="lazy">':icon)+'</div><div class="info"><small>'+(p.category==="Used"?"Pre-owned":esc(p.category))+'</small><h3>'+esc(p.name)+'</h3><small>'+esc(p.desc)+'</small><span class="stk s-'+st+'">'+SL[st]+'</span><div class="price">'+R(p.price)+(p.oldPrice?'<s>'+R(p.oldPrice)+'</s>':'')+'</div></div>'
     +(out?'<a class="btn ghost" target="_blank" rel="noopener" href="'+esc(wa("Hi Camera Hub, when will the "+p.name+" be back in stock?"))+'">Ask on WhatsApp</a>':'<button class="btn" onclick="add('+i+')">Add to cart</button>')+'</article>';
   });
   $("grid").innerHTML=n?h:'<p>No products match. Try a different search or ask us on WhatsApp.</p>';
