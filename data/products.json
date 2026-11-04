@@ -1,5 +1,27 @@
 [
   {
+    "name": "Sony ZV-E1 Mirrorless Digital Camera",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/sony-zv-e1-mirrorless-digital-camera-mw24y5n7.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Sony Alpha A7R VI Mirrorless Camera Body",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/sony-alpha-a7r-vi-mirrorless-camera-body-mw24wuik.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
     "name": "Sony Alpha A7R V Mirrorless Camera Body",
     "category": "Cameras",
     "desc": "",
