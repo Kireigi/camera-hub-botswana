@@ -1,5 +1,27 @@
 [
   {
+    "name": "Kodak PIXPRO FZ55 Digital Camera (Black) ",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/new-product-mw23pvo1.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Kodak Pixpro C1 Compact Digital Camera (Tan)",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/kodak-pixpro-c1-compact-digital-camera-t-mw23p7ed.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
     "name": "Yashica Digimate Digital Compact Camera (Off-white)",
     "category": "Cameras",
     "desc": "",
