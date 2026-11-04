@@ -1,5 +1,27 @@
 [
   {
+    "name": "Sony Cyber-shot DSC-RX100 VII Vlogging Camera Kit",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/sony-cyber-shot-dsc-rx100-vii-vlogging-c-mw25dnv6.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Sony PXW-Z200 4K 1\" CMOS Sensor XDCAM Camcorder",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/sony-pxw-z200-4k-1-cmos-sensor-xdcam-cam-mw25beew.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
     "name": "Sony Alpha A7 III Mirrorless Camera Body",
     "category": "Cameras",
     "desc": "",
