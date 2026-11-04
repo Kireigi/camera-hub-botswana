@@ -1,23 +1,45 @@
 [
   {
-    "name": "New product",
+    "name": "Fujifilm Instax Mini LiPlay Hybrid Instant Camera (Stone White)",
     "category": "Cameras",
     "desc": "",
     "price": 0,
     "oldPrice": "",
     "tag": "New",
-    "image": "",
+    "image": "images/fujifilm-instax-mini-liplay-hybrid-insta-mw246o9x.jpg",
     "stock": "in",
     "visible": true
   },
   {
-    "name": "New product",
+    "name": "Kodak PIXPRO WPZ2 Digital Camera (Red)",
     "category": "Cameras",
     "desc": "",
     "price": 0,
     "oldPrice": "",
     "tag": "New",
-    "image": "",
+    "image": "images/kodak-pixpro-wpz2-digital-camera-red--mw2448k4.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Kodak Snapic A1 35mm Film Camera (Ivory White)",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/kodak-snapic-a1-35mm-film-camera-ivory-w-mw242icw.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Kodak Pure 35 Film Camera (Black)",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/kodak-pure-35-film-camera-black--mw2410sz.jpg",
     "stock": "in",
     "visible": true
   },
