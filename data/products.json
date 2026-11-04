@@ -1,5 +1,38 @@
 [
   {
+    "name": "Sony Alpha A7 III Mirrorless Camera Body",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/sony-alpha-a7-iii-mirrorless-camera-body-mw258v8v.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Sony Alpha A7 IV Mirrorless Digital Camera with FE 28-70mm f3.5-5.6 OSS II Lens",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/sony-alpha-a7-iv-mirrorless-digital-came-mw257t8j.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Sony FX2 Digital Cinema Camera",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/sony-fx2-digital-cinema-camera-mw255y4p.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
     "name": "Sony ZV-E1 Mirrorless Digital Camera",
     "category": "Cameras",
     "desc": "",
