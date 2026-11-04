@@ -2,7 +2,7 @@
   {
     "name": "Sony FX2 Digital Cinema Camera with Sony XLR-H1 XLR Handle Unit",
     "category": "Cameras",
-    "desc": "",
+    "desc": "33MP Full-Frame CMOS Exmor R Sensor",
     "price": 80345,
     "oldPrice": 82500,
     "tag": "New",
@@ -244,7 +244,7 @@
   {
     "name": "Sony a6700 Mirrorless Camera with 16-50mm Lens",
     "category": "Cameras",
-    "desc": "",
+    "desc": "26MP Exmor R APS-C BSI CMOS Sensor",
     "price": 33999,
     "oldPrice": 39850,
     "tag": "New",
@@ -299,7 +299,7 @@
   {
     "name": "Kodak Pure 35 Film Camera (Black)",
     "category": "Cameras",
-    "desc": "",
+    "desc": "35mm point-and-shoot film camera",
     "price": 1800,
     "oldPrice": "",
     "tag": "New",
@@ -310,7 +310,7 @@
   {
     "name": "Kodak PIXPRO FZ55 Digital Camera (Black) ",
     "category": "Cameras",
-    "desc": "",
+    "desc": "16MP Compact Digital Camera, 5X Optical Zoom, Black 1080p Full HD Video",
     "price": 4900,
     "oldPrice": "",
     "tag": "New",
@@ -321,7 +321,7 @@
   {
     "name": "Kodak Pixpro C1 Compact Digital Camera (Tan)",
     "category": "Cameras",
-    "desc": "",
+    "desc": "26mm Fixed Lens, Brown 1080p Full HD Video",
     "price": 2895,
     "oldPrice": "",
     "tag": "New",
@@ -332,7 +332,7 @@
   {
     "name": "Yashica Digimate Digital Compact Camera (Off-white)",
     "category": "Cameras",
-    "desc": "",
+    "desc": "8MP CMOS sensor with up to 64MP high-resolution stills",
     "price": 2895,
     "oldPrice": "",
     "tag": "New",
@@ -343,7 +343,7 @@
   {
     "name": "Kodak Pixpro C1 Compact Camera",
     "category": "Cameras",
-    "desc": "",
+    "desc": "26mm Fixed Lens, Brown 1080p Full HD Video",
     "price": 2895,
     "oldPrice": "",
     "tag": "New",
