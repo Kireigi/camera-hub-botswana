@@ -1,5 +1,27 @@
 [
   {
+    "name": "Sony a6700 Mirrorless Camera with 16-50mm Lens",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/sony-a6700-mirrorless-camera-with-16-50m-mw24hu64.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Fujifilm Instax Mini LiPlay+ Hybrid Instant Camera Combo with 1 Film and Case (Sand Beige)",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/fujifilm-instax-mini-liplay-hybrid-insta-mw249ak8.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
     "name": "Fujifilm Instax Mini LiPlay Hybrid Instant Camera (Stone White)",
     "category": "Cameras",
     "desc": "",
