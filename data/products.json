@@ -1,5 +1,38 @@
 [
   {
+    "name": "Sony Alpha A7R V Mirrorless Camera Body",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/sony-alpha-a7r-v-mirrorless-camera-body-mw24ut2d.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Sony ZV-E10 Mirrorless Camera with 16-50mm II Lens (Black)",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/sony-zv-e10-mirrorless-camera-with-16-50-mw24trjt.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Sony Cinema Line FX3A Camera",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/product-mw24spo0.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
     "name": "Sony Cinema Line FX3A Camera",
     "category": "Cameras",
     "desc": "",
