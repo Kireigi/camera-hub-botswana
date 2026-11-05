@@ -1,6 +1,83 @@
 [
   {
-    "name": "RF 75-300mm f/4-5.6",
+    "name": "Canon EF 50mm f/1.8 STM Lens ",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Canon 35mm f/1.8 IS STM Macro Lens",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Canon RF 100-500mm f/4.5-7.1L IS USM Lens",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Canon RF 24-70mm f/2.8L IS USM Lens",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Canon 45mm f/1.2 STM",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Canon RF 50mm f/1.8 STM Lens",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Canon RF 100-400mm f/5.6-8 IS USM Lens",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Canon RF 75-300mm f/4-5.6",
     "category": "Lenses",
     "desc": "",
     "price": 0,
