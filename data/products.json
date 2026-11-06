@@ -1,5 +1,137 @@
 [
   {
+    "name": "Fujifilm XF 100-400mm f/4.5-5.6 R LM OIS WR Lens",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/fujifilm-xf-100-400mm-f-4-5-5-6-r-lm-ois-mw4t1ng9.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Fujifilm XF 150-600mm f/5.6-8 R LM OIS WR",
+    "category": "Lenses",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/fujifilm-xf-150-600mm-f-5-6-8-r-lm-ois-w-mw4sz5g2.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Fujifilm XF 70-300mm f/4-5.6 R LM OIS WR",
+    "category": "Lenses",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/fujifilm-xf-70-300mm-f-4-5-6-r-lm-ois-wr-mw4t0fog.jpg",
+    "stock": "order",
+    "visible": true
+  },
+  {
+    "name": "Fujifilm XF 8mm f/3.5 R WR",
+    "category": "Lenses",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/fujifilm-xf-8mm-f-3-5-r-wr-mw4t2gan.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Fujifilm XF 55-200mm f/3.5-4.8 R LM OIS",
+    "category": "Lenses",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/fujifilm-xf-55-200mm-f-3-5-4-8-r-lm-ois-mw4t37hx.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Fujifilm XF 23mm f/1.4 R LM WR",
+    "category": "Lenses",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Fujifilm 56mm f/1.2 R WR",
+    "category": "Lenses",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Fujifilm XF 33mm f/1.4 R LM WR",
+    "category": "Lenses",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "NIKKOR Z 24-200mm f/4-6.3 VR",
+    "category": "Lenses",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/nikkor-z-24-200mm-f-4-6-3-vr-mw4swsat.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "NIKKOR Z 85mm f/1.8 S",
+    "category": "Lenses",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/nikkor-z-85mm-f-1-8-s-mw4sw36l.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "NIKKOR Z 28-400mm f/4-8 VR",
+    "category": "Lenses",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "NIKKOR Z 24-70mm f/2.8 S",
+    "category": "Lenses",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "",
+    "stock": "in",
+    "visible": true
+  },
+  {
     "name": "Sigma 18-50mm f/2.8 DC DN Contemporary Lens for Canon RF",
     "category": "Lenses",
     "desc": "",
