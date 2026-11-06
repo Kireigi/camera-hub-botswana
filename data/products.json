@@ -1,7 +1,51 @@
 [
   {
-    "name": "Sigma 24-70mm f/2.8 DG DN II Art Lens (Leica L)",
+    "name": "Sigma 18-50mm f/2.8 DC DN Contemporary Lens for Canon RF",
     "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/sigma-18-50mm-f-2-8-dc-dn-contemporary-l-mw4saix6.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Sigma 10-18mm f/2.8 DC DN Contemporary Lens (Fujifilm X)",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/sigma-10-18mm-f-2-8-dc-dn-contemporary-l-mw4s9e3c.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Sigma 10-18mm f/2.8 DC DN Contemporary Lens for Canon-RF",
+    "category": "Lenses",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Sigma 17-40mm f/1.8 DC Art Lens (Fujifilm X)",
+    "category": "Lenses",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/sigma-17-40mm-f-1-8-dc-art-lens-fujifilm-mw4s26h6.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Sigma 24-70mm f/2.8 DG DN II Art Lens (Leica L)",
+    "category": "Lenses",
     "desc": "",
     "price": 0,
     "oldPrice": "",
@@ -12,7 +56,7 @@
   },
   {
     "name": "Sigma 18-50mm f/2.8 DC DN Contemporary Lens for Fujifilm",
-    "category": "Cameras",
+    "category": "Lenses",
     "desc": "",
     "price": 0,
     "oldPrice": "",
@@ -61,7 +105,7 @@
     "price": 0,
     "oldPrice": "",
     "tag": "New",
-    "image": "",
+    "image": "images/sigma-28-105mm-f-2-8-dg-dn-art-lens-sony-mw4rts59.jpg",
     "stock": "in",
     "visible": true
   },
@@ -72,7 +116,7 @@
     "price": 0,
     "oldPrice": "",
     "tag": "New",
-    "image": "",
+    "image": "images/sigma-56mm-f-1-4-dc-dn-contemporary-lens-mw4ry7gl.jpg",
     "stock": "in",
     "visible": true
   },
@@ -83,7 +127,7 @@
     "price": 0,
     "oldPrice": "",
     "tag": "New",
-    "image": "",
+    "image": "images/sigma-150-600mm-f-5-6-3-dg-dn-os-sports--mw4ryxhw.jpg",
     "stock": "in",
     "visible": true
   },
@@ -94,7 +138,7 @@
     "price": 0,
     "oldPrice": "",
     "tag": "New",
-    "image": "",
+    "image": "images/sigma-17-40mm-f-1-8-dc-art-lens-sony-e--mw4s0725.jpg",
     "stock": "in",
     "visible": true
   },
@@ -105,7 +149,7 @@
     "price": 0,
     "oldPrice": "",
     "tag": "New",
-    "image": "",
+    "image": "images/sigma-85mm-f-1-4-dg-dn-art-lens-for-sony-mw4s3aux.jpg",
     "stock": "in",
     "visible": true
   },
@@ -116,7 +160,7 @@
     "price": 0,
     "oldPrice": "",
     "tag": "New",
-    "image": "",
+    "image": "images/sigma-70-200mm-f-2-8-dg-dn-os-sports-len-mw4s43w6.jpg",
     "stock": "in",
     "visible": true
   },
@@ -127,7 +171,7 @@
     "price": 0,
     "oldPrice": "",
     "tag": "New",
-    "image": "",
+    "image": "images/sigma-28-70mm-f-2-8-dg-dn-contemporary-l-mw4s4xq7.jpg",
     "stock": "in",
     "visible": true
   },
@@ -138,7 +182,7 @@
     "price": 0,
     "oldPrice": "",
     "tag": "New",
-    "image": "",
+    "image": "images/sigma-10-18mm-f-2-8-dc-dn-contemporary-l-mw4s82da.jpg",
     "stock": "in",
     "visible": true
   },
@@ -149,7 +193,7 @@
     "price": 0,
     "oldPrice": "",
     "tag": "New",
-    "image": "",
+    "image": "images/sigma-30mm-f-1-4-dc-dn-contemporary-lens-mw4s6ohj.jpg",
     "stock": "in",
     "visible": true
   },
@@ -160,7 +204,7 @@
     "price": 0,
     "oldPrice": "",
     "tag": "New",
-    "image": "",
+    "image": "images/sigma-16mm-f-1-4-dc-dn-contemporary-lens-mw4s60x7.jpg",
     "stock": "in",
     "visible": true
   },
