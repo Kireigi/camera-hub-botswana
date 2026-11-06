@@ -1,12 +1,23 @@
 [
   {
+    "name": "Tamron 150-500mm f/5-6.7 Di III VC VXD (Nikon Z)",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/tamron-150-500mm-f-5-6-7-di-iii-vc-vxd-n-mw4qc66c.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
     "name": "Tamron 150-500mm f/5-6.7 Di III VC VXD (Sony E)",
     "category": "Lenses",
     "desc": "",
     "price": 0,
     "oldPrice": "",
     "tag": "New",
-    "image": "",
+    "image": "images/tamron-150-500mm-f-5-6-7-di-iii-vc-vxd-s-mw4qc0ot.jpg",
     "stock": "in",
     "visible": true
   },
@@ -17,7 +28,7 @@
     "price": 0,
     "oldPrice": "",
     "tag": "New",
-    "image": "",
+    "image": "images/tamron-28-75mm-f-2-8-di-iii-vxd-g2-nikon-mw4qbpie.jpg",
     "stock": "in",
     "visible": true
   },
@@ -28,7 +39,7 @@
     "price": 0,
     "oldPrice": "",
     "tag": "New",
-    "image": "",
+    "image": "images/tamron-17-70mm-f-2-8-di-iii-a-vc-rxd-fuj-mw4qb8id.jpg",
     "stock": "in",
     "visible": true
   },
@@ -39,7 +50,7 @@
     "price": 0,
     "oldPrice": "",
     "tag": "New",
-    "image": "",
+    "image": "images/tamron-18-300mm-f-3-5-6-3-di-iii-a-vc-vx-mw4qah9b.jpg",
     "stock": "in",
     "visible": true
   },
@@ -50,7 +61,7 @@
     "price": 0,
     "oldPrice": "",
     "tag": "New",
-    "image": "",
+    "image": "images/tamron-28-75mm-f-2-8-di-iii-vxd-g2-lens--mw4qab68.jpg",
     "stock": "in",
     "visible": true
   },
@@ -61,7 +72,7 @@
     "price": 0,
     "oldPrice": "",
     "tag": "New",
-    "image": "",
+    "image": "images/tamron-17-70mm-f-2-8-di-iii-a-vc-rxd-len-mw4qa4qk.jpg",
     "stock": "in",
     "visible": true
   },
