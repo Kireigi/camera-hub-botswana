@@ -1,7 +1,18 @@
 [
   {
+    "name": "Fujifilm XF 16-55mm f/2.8 R LM WR II Lens",
+    "category": "Lenses",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/fujifilm-xf-16-55mm-f-2-8-r-lm-wr-ii-len-mw4t8kfi.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
     "name": "Fujifilm XF 100-400mm f/4.5-5.6 R LM OIS WR Lens",
-    "category": "Cameras",
+    "category": "Lenses",
     "desc": "",
     "price": 0,
     "oldPrice": "",
@@ -61,7 +72,7 @@
     "price": 0,
     "oldPrice": "",
     "tag": "New",
-    "image": "",
+    "image": "images/fujifilm-xf-23mm-f-1-4-r-lm-wr-mw4t5c81.jpg",
     "stock": "in",
     "visible": true
   },
@@ -72,7 +83,7 @@
     "price": 0,
     "oldPrice": "",
     "tag": "New",
-    "image": "",
+    "image": "images/fujifilm-56mm-f-1-2-r-wr-mw4t65to.jpg",
     "stock": "in",
     "visible": true
   },
@@ -83,7 +94,7 @@
     "price": 0,
     "oldPrice": "",
     "tag": "New",
-    "image": "",
+    "image": "images/fujifilm-xf-33mm-f-1-4-r-lm-wr-mw4t7drw.jpg",
     "stock": "in",
     "visible": true
   },
