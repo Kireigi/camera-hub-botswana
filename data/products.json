@@ -1,5 +1,27 @@
 [
   {
+    "name": "Sony FE 24-105mm f/4 G OSS",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/sony-fe-24-105mm-f-4-g-oss-mw4pgdbn.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
+    "name": "Sony E PZ 18-105mm f/4 G OSS",
+    "category": "Cameras",
+    "desc": "",
+    "price": 0,
+    "oldPrice": "",
+    "tag": "New",
+    "image": "images/sony-e-pz-18-105mm-f-4-g-oss-mw4pfg8z.jpg",
+    "stock": "in",
+    "visible": true
+  },
+  {
     "name": "Sony FE 70-200mm f/2.8 GM OSS II Lens",
     "category": "Cameras",
     "desc": "",
