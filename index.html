@@ -60,8 +60,9 @@ section{padding:56px 0}
 .head{display:flex;justify-content:space-between;align-items:end;gap:16px;margin-bottom:24px;flex-wrap:wrap}
 .head h2{font-size:clamp(30px,4vw,44px)}
 .head p{margin:4px 0 0;color:var(--muted)}
-.tiles{display:grid;grid-template-columns:repeat(6,1fr);gap:12px}
-.tile{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:20px 10px;text-align:center;font-weight:600;transition:border-color .15s}
+.tiles{display:grid;grid-template-columns:repeat(10,1fr);gap:10px}
+@media (max-width:1100px){.tiles{grid-template-columns:repeat(5,1fr)}}
+.tile{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:18px 6px;text-align:center;font-weight:600;font-size:15px;line-height:1.25;transition:border-color .15s}
 .tile:hover{border-color:var(--sky)}
 .tile svg{width:44px;height:44px;stroke:var(--sky-ink);fill:none;stroke-width:1.6;display:block;margin:0 auto 10px}
 /* products */
@@ -93,7 +94,7 @@ section{padding:56px 0}
 /* visit */
 .visit{display:grid;grid-template-columns:1fr 1fr;gap:30px}
 .visit dl{margin:0;display:grid;grid-template-columns:110px 1fr;gap:8px 12px}
-.visit dt{color:var(--muted)}.visit dd{margin:0}
+.visit dt{color:var(--muted)}.visit dd{margin:0;min-width:0;overflow-wrap:anywhere}.visit>*{min-width:0}
 .map{background:var(--surface);border:1px solid var(--line);border-radius:6px;min-height:220px;display:grid;place-items:center;color:var(--muted);text-align:center;padding:20px}
 form.news{display:flex;gap:8px;margin-top:14px}
 form.news input{flex:1;min-width:0;padding:11px 14px;border:1.5px solid var(--line);border-radius:4px;background:var(--surface);color:var(--ink);font:inherit}
@@ -104,7 +105,7 @@ footer .wrap{align-items:center;display:flex;justify-content:space-between;gap:1
 .wa{position:fixed;right:16px;bottom:calc(16px + env(safe-area-inset-bottom,0px));background:#1fa855;color:#fff;border-radius:99px;padding:12px 18px;font-weight:600;z-index:25}
 @media (max-width:900px){
   .hero .wrap{grid-template-columns:1fr}.lens{max-width:240px;order:-1}
-  .tiles{grid-template-columns:repeat(3,1fr)}.grid{grid-template-columns:repeat(2,1fr)}
+  .tiles{grid-template-columns:repeat(2,1fr)}.grid{grid-template-columns:repeat(2,1fr)}
   .svc{grid-template-columns:1fr 1fr}.visit{grid-template-columns:1fr}
 }
 @media (max-width:520px){.bar{flex-wrap:wrap}.search{order:3;flex-basis:100%}.svc{grid-template-columns:1fr}.hero .btn.ghost{margin:10px 0 0}}
@@ -117,14 +118,14 @@ footer .wrap{align-items:center;display:flex;justify-content:space-between;gap:1
   <div class="bar">
     <a class="logo" href="#top" aria-label="Camera Hub Botswana home"><img id="logoH" src="assets/logo-horizontal.png" alt="Camera Hub Botswana. Eternalizing Moments" width="280" height="64"></a>
     <form class="search" role="search" onsubmit="return find(event)">
-      <input id="q" type="search" placeholder="Search cameras, lenses, drones…" aria-label="Search products">
+      <input id="q" type="search" placeholder="Search cameras, lenses, drones, printers…" aria-label="Search products">
       <button class="btn" type="submit">Search</button>
     </form>
     <button class="cart" id="cartbtn" aria-label="Open enquiry list">Cart<b id="count">0</b></button>
   </div>
   <nav class="cats" aria-label="Categories">
-    <a href="#shop" data-f="Cameras">Cameras</a><a href="#shop" data-f="Lenses">Lenses</a><a href="#shop" data-f="Drones">Drones</a>
-    <a href="#shop" data-f="Accessories">Accessories</a><a href="#services">Rentals</a><a href="#services">Repairs</a><a href="#services">Trade-in</a><a class="sale" href="#shop" data-f="Used">Pre-owned</a>
+    <a href="#shop" data-f="Cameras">Cameras</a><a href="#shop" data-f="Lenses">Lenses</a><a href="#shop" data-f="Drones">Drones</a><a href="#shop" data-f="Security Cameras">Security Cameras</a>
+    <a href="#shop" data-f="Accessories">Accessories</a><a href="#shop" data-f="Point of Sale">POS Systems</a><a href="#shop" data-f="Printers">Printers</a><a href="#shop" data-f="Microscopes">Microscopes</a><a href="#services">Rentals</a><a href="#services">Repairs</a><a href="#services">Trade-in</a><a class="sale" href="#shop" data-f="Used">Pre-owned</a>
   </nav>
 </div></header>
 
@@ -145,8 +146,12 @@ footer .wrap{align-items:center;display:flex;justify-content:space-between;gap:1
     <a class="tile" href="#shop" data-f="Cameras"><svg viewBox="0 0 48 48"><rect x="5" y="14" width="38" height="25" rx="3"/><circle cx="24" cy="26" r="8"/><path d="M17 14l2-5h10l2 5"/></svg>Cameras</a>
     <a class="tile" href="#shop" data-f="Lenses"><svg viewBox="0 0 48 48"><rect x="12" y="8" width="24" height="32" rx="3"/><path d="M12 16h24M12 32h24"/></svg>Lenses</a>
     <a class="tile" href="#shop" data-f="Drones"><svg viewBox="0 0 48 48"><circle cx="24" cy="24" r="5"/><path d="M19 19L9 9M29 19l10-10M19 29L9 39M29 29l10 10"/><circle cx="8" cy="8" r="4"/><circle cx="40" cy="8" r="4"/><circle cx="8" cy="40" r="4"/><circle cx="40" cy="40" r="4"/></svg>Drones</a>
+    <a class="tile" href="#shop" data-f="Security Cameras"><svg viewBox="0 0 48 48"><rect x="5" y="11" width="30" height="14" rx="3"/><circle cx="38" cy="18" r="4"/><path d="M15 25v7M9 40h12M15 32l-6 8"/></svg>Security Cameras</a>
     <a class="tile" href="#shop" data-f="Accessories"><svg viewBox="0 0 48 48"><path d="M24 6v22M12 42l12-14 12 14M24 28l-7 14M24 28l7 14"/></svg>Tripods &amp; bags</a>
     <a class="tile" href="#shop" data-f="Accessories"><svg viewBox="0 0 48 48"><rect x="8" y="10" width="32" height="28" rx="3"/><path d="M8 18h32M16 10v8"/></svg>Memory &amp; power</a>
+    <a class="tile" href="#shop" data-f="Point of Sale"><svg viewBox="0 0 48 48"><rect x="10" y="5" width="28" height="18" rx="2"/><rect x="8" y="27" width="32" height="15" rx="2"/><path d="M15 33h2M23 33h2M31 33h2M15 38h2M23 38h2M31 38h2"/></svg>POS Systems</a>
+    <a class="tile" href="#shop" data-f="Printers"><svg viewBox="0 0 48 48"><rect x="14" y="6" width="20" height="10"/><rect x="6" y="16" width="36" height="16" rx="3"/><rect x="14" y="26" width="20" height="14"/><path d="M34 22h2"/></svg>Printers</a>
+    <a class="tile" href="#shop" data-f="Microscopes"><svg viewBox="0 0 48 48"><rect x="17" y="6" width="9" height="20" rx="2" transform="rotate(-25 21.5 16)"/><path d="M30 17c6 5 5 15-3 18"/><path d="M12 34h16M10 42h26M22 34v8"/></svg>Microscopes</a>
     <a class="tile" href="#shop" data-f="Used"><svg viewBox="0 0 48 48"><path d="M10 24a14 14 0 0 1 24-10l4 4M38 24a14 14 0 0 1-24 10l-4-4"/><path d="M38 8v10H28M10 40V30h10"/></svg>Pre-owned</a>
   </div>
 </div></section>
@@ -155,7 +160,7 @@ footer .wrap{align-items:center;display:flex;justify-content:space-between;gap:1
   <div class="head">
     <div><h2>New arrivals &amp; best sellers</h2><p id="shopNote" hidden></p></div>
     <div class="filters" role="group" aria-label="Filter products" id="filters">
-      <button aria-pressed="true" data-f="All">All</button><button aria-pressed="false" data-f="Cameras">Cameras</button><button aria-pressed="false" data-f="Lenses">Lenses</button><button aria-pressed="false" data-f="Drones">Drones</button><button aria-pressed="false" data-f="Accessories">Accessories</button><button aria-pressed="false" data-f="Used">Pre-owned</button>
+      <button aria-pressed="true" data-f="All">All</button><button aria-pressed="false" data-f="Cameras">Cameras</button><button aria-pressed="false" data-f="Lenses">Lenses</button><button aria-pressed="false" data-f="Drones">Drones</button><button aria-pressed="false" data-f="Security Cameras">Security Cameras</button><button aria-pressed="false" data-f="Accessories">Accessories</button><button aria-pressed="false" data-f="Point of Sale">POS Systems</button><button aria-pressed="false" data-f="Printers">Printers</button><button aria-pressed="false" data-f="Microscopes">Microscopes</button><button aria-pressed="false" data-f="Used">Pre-owned</button>
     </div>
   </div>
   <div class="grid" id="grid"></div>
@@ -200,6 +205,8 @@ footer .wrap{align-items:center;display:flex;justify-content:space-between;gap:1
 
 <script>
 var P=[],S={},cart=[],cur="All",term="";
+var LABELS={"Used":"Pre-owned","Point of Sale":"POS Systems"};function lab(c){return LABELS[c]||c}
+var ICONS={"Security Cameras":'<svg viewBox="0 0 48 48"><rect x="5" y="11" width="30" height="14" rx="3"/><circle cx="38" cy="18" r="4"/><path d="M15 25v7M9 40h12M15 32l-6 8"/></svg>',"Point of Sale":'<svg viewBox="0 0 48 48"><rect x="10" y="5" width="28" height="18" rx="2"/><rect x="8" y="27" width="32" height="15" rx="2"/><path d="M15 33h2M23 33h2M31 33h2M15 38h2M23 38h2M31 38h2"/></svg>',"Printers":'<svg viewBox="0 0 48 48"><rect x="14" y="6" width="20" height="10"/><rect x="6" y="16" width="36" height="16" rx="3"/><rect x="14" y="26" width="20" height="14"/><path d="M34 22h2"/></svg>',"Microscopes":'<svg viewBox="0 0 48 48"><rect x="17" y="6" width="9" height="20" rx="2" transform="rotate(-25 21.5 16)"/><path d="M30 17c6 5 5 15-3 18"/><path d="M12 34h16M10 42h26M22 34v8"/></svg>'};
 var icon='<svg viewBox="0 0 48 48"><rect x="5" y="14" width="38" height="25" rx="3"/><circle cx="24" cy="26" r="8"/><path d="M17 14l2-5h10l2 5"/></svg>';
 var SL={in:"In stock",low:"Low stock",order:"On order",out:"Out of stock"};
 function $(i){return document.getElementById(i)}
@@ -210,12 +217,12 @@ function draw(){var h="",n=0;
   P.forEach(function(p,i){
     if(p.visible===false)return;
     if(cur!=="All"&&p.category!==cur)return;
-    if(term&&(p.name+" "+p.desc+" "+p.category).toLowerCase().indexOf(term)<0)return;
+    if(term&&(p.name+" "+p.desc+" "+p.category+" "+lab(p.category)).toLowerCase().indexOf(term)<0)return;
     n++;var st=p.stock||"in",out=st==="out";
-    h+='<article class="card"><div class="pic'+(p.image?' has-img':'')+'">'+(p.tag?'<span class="tag">'+esc(p.tag)+'</span>':'')+(p.image?'<img src="'+esc(p.image)+'" alt="'+esc(p.name)+'" loading="lazy">':icon)+'</div><div class="info"><small>'+(p.category==="Used"?"Pre-owned":esc(p.category))+'</small><h3>'+esc(p.name)+'</h3><small>'+esc(p.desc)+'</small><span class="stk s-'+st+'">'+SL[st]+'</span><div class="price">'+R(p.price)+(p.oldPrice?'<s>'+R(p.oldPrice)+'</s>':'')+'</div></div>'
+    h+='<article class="card"><div class="pic'+(p.image?' has-img':'')+'">'+(p.tag?'<span class="tag">'+esc(p.tag)+'</span>':'')+(p.image?'<img src="'+esc(p.image)+'" alt="'+esc(p.name)+'" loading="lazy">':(ICONS[p.category]||icon))+'</div><div class="info"><small>'+esc(lab(p.category))+'</small><h3>'+esc(p.name)+'</h3><small>'+esc(p.desc)+'</small><span class="stk s-'+st+'">'+SL[st]+'</span><div class="price">'+R(p.price)+(p.oldPrice?'<s>'+R(p.oldPrice)+'</s>':'')+'</div></div>'
     +(out?'<a class="btn ghost" target="_blank" rel="noopener" href="'+esc(wa("Hi Camera Hub, when will the "+p.name+" be back in stock?"))+'">Ask on WhatsApp</a>':'<button class="btn" onclick="add('+i+')">Add to cart</button>')+'</article>';
   });
-  $("grid").innerHTML=n?h:'<p>No products match. Try a different search or ask us on WhatsApp.</p>';
+  $("grid").innerHTML=n?h:(cur!=="All"&&!term?'<p>No '+esc(cur==="Used"?"pre-owned items":lab(cur))+' are listed online yet. <a href="'+esc(wa("Hi Camera Hub, I am looking for "+cur+"."))+'" target="_blank" rel="noopener" style="text-decoration:underline">Ask us on WhatsApp</a> and we will help you.</p>':'<p>No products match. Try a different search or ask us on WhatsApp.</p>');
 }
 function setF(f){cur=f;document.querySelectorAll("#filters button").forEach(function(b){b.setAttribute("aria-pressed",b.dataset.f===f)});draw()}
 function add(i){cart.push(i);$("count").textContent=cart.length;toast(P[i].name+" added")}
